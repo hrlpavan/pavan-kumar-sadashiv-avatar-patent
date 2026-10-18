@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "HRL-IP-PAT-AVATAR-2026-PKS-001",
+  "title": "Official Commercial Profile Picture Patent, Industrial Design, Trade Dress & Cryptographic Ownership Charter",
+  "sole_applicant_inventor_and_signatory": {
+    "full_legal_name": "Pavan Kumar Sadashiv",
+    "designations": [
+      "Founder & Managing Director, HRL International Private Limited (India)",
+      "President & Chief Executive Officer, HRL International, Inc. (Delaware, USA)",
+      "Chief AI Architect & Sole Registered Proprietor"
+    ],
+    "email": "pavankcet@gmail.com",
+    "corporate_email": "hrlinternationalprivatelimited@gmail.com",
+    "jurisdiction": "Mangaluru, Karnataka, Republic of India & State of Delaware, USA",
+    "x509_certificate_subject": "/C=IN/ST=Karnataka/L=Mangaluru/O=HRL International Private Limited/OU=Commercial IP and Patent Authority/CN=Pavan Kumar Sadashiv/emailAddress=pavankcet@gmail.com",
+    "x509_certificate_sha256_fingerprint": "E3:C0:B3:ED:10:AD:F5:0B:67:37:E4:23:C5:4B:0B:6C:0C:F2:0F:8E:5C:E0:55:D7:FF:02:47:FC:E3:F4:1E:B5",
+    "openssh_ed25519_public_key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIErFEc+G4lReCawhc82itMwBZCtxKlR5RbSmr4krCC3B Pavan Kumar Sadashiv <pavankcet@gmail.com>",
+    "openssh_ed25519_fingerprint": "256 SHA256:/J41fAtNxlvEE0U6mpRm4qudBWFVlKZuVPXEY9lsd5U Pavan Kumar Sadashiv <pavankcet@gmail.com> (ED25519)"
+  },
+  "timestamp_iso8601": "2026-10-18T20:48:14+05:30",
+  "published_platforms": [
+    "https://github.com/hrlpavan/hrlpavan",
+    "https://gitlab.com/hrlpavan/hrlpavan",
+    "https://github.com/hrlpavan/hrl-legal-ip-dmca-policy",
+    "https://gitlab.com/hrlpavan/hrl-legal-ip-dmca-policy",
+    "https://github.com/hrlpavan/HRL-INTERNATIONAL-PVT.LTD.-FILES",
+    "https://gitlab.com/hrlpavan/HRL-INTERNATIONAL-PVT.LTD-FILES"
+  ],
+  "protected_assets": {
+    "commercial_profile_image": {
+      "path": "assets/pavan-kumar-sadashiv-official-commercial-avatar.jpg",
+      "mime_type": "image/jpeg",
+      "dimensions": "736x736",
+      "size_bytes": 54043,
+      "sha256": "0660daf4d7377af82d844c854db878139dbee957e69575e83e2fc89862a07b8e",
+      "sha384": "8c97eb23046925fe985eaa49e5c373bca95799fc8fec862e9efc4179d10b90624ee2e9c9ed6ba4a8c9176736b07e9121",
+      "sha512": "3ee9743ec01e4d14b5ca912137abac566a45d386aa6378bb6ff1251d312ac23347363e1818f5bf5fcfe45882ff76b43873b22705db2d5b9417d60dc23175519f",
+      "blake2b_512": "7e8bb27c38f790872784e5cf614a078be5be45624c2b82036087072ac6f021607a4bf2f7bfbe89c1b03f59fb39c5792e162c967805347cc6eba6da55d2e00cab",
+      "detached_signature_path": "assets/patent-avatar/pavan-kumar-sadashiv-official-commercial-avatar.jpg.sig",
+      "rsa4096_sha256_signature_base64": "oMzwTx6XqEJwLhyCbyYY0GkgABiaLoU8gwmtEMjsrJ04JPlunHnHBScm/xxaPK+pWtYnZFpWnIVqVHgWvbO+zSbhzWAZwjOdFFbwCA2+gY2osPYW/Aahy8X/iFmHq0m2AJUM5rVOLQ16EJ6td4gdF3henPj3CU4Wy4nt27sKpERRDtdMYrf77JRtLlHb5DMfzYRBSxYxJgJj/gWDECBDh6B6mDA+tKbuP6Q1mjaUiNsFusLF5t3GK8AjImwuBIwJ9LR9Q1ILFEfnD0HkxV+WG2YLGL1ue6J0hw2Wvs6YKcOjvXjV7zd6RfnW/daaITJ92ewp6ly0GMTqKsL8GRRV6rpH60InQFWl8TrQG3ZrEbYAkertPji/lPfsRL8dzZ3G1fFzKp+Wmk0O4V7201HFwMIPJIvzO5PPq0Ghi+XrTIWmmQVIF1BM0mfoDBGSjRp9sjdihWGAADYCtWebDHMbH8dTCSHM0SrkggeTritjeqBVDR2xknD1Vt4TOMNgf2p+M9w2xZjgyi8Zi4Sp9QP7S6QgjsBDhVc7EkQLiC6N75ILttD3V4Xnc9GCNqi3TGwvemOotLUEPRXqtlvPYW5zO1yPI0Nsr7NdUSq13YKuVvWrtvuD04AkzHbM8rZ0pUeKVVKONWwyLzc5iZAmxPrwWGXb/sLzCzJCKzudIu1JPWs="
+    },
+    "patent_and_ip_dossier_markdown": {
+      "path": "OFFICIAL_COMMERCIAL_PROFILE_AVATAR_PATENT_AND_IP_DOSSIER.md",
+      "size_bytes": 17864,
+      "sha256": "c4a212dca2b27fc5935b4766e4e1e3c583607f529fe066b39f2be19604d62442",
+      "sha512": "8483594e83557bae0eb8f36453a86dec208bf2c9cab92de1ff3c67c1a72bbe7c92680d6d36b21d5d651cbed7e502b0b51dcd3bb77302196d00d43137f47497c9",
+      "detached_signature_path": "assets/patent-avatar/OFFICIAL_COMMERCIAL_PROFILE_AVATAR_PATENT_AND_IP_DOSSIER.md.sig",
+      "rsa4096_sha256_signature_base64": "jyzHoBT+IPWbg1OnVxkWBlkYK3L/aoQAmtpm0OeuowK1NzrXFptyWh08kKde2I1/I6JHWTPkAHNG+I/z6qiFHoM4Cd+Ww9PhB4QnIA5u34qwOqX7w72TVSSy3Nk+e6dLOCglgEpqhRQMDioQcYUNgfZPEMOx9S5ICCqoTY+yV295rLVvIRK6HYq1NFTROcRG2KRCgSVchhIYrhulJiM0wzGaV2wr+UL0G8OOiOD/N4/LQunqXLcH/YRW9hiGEPNa+daQcKKgs22O5Gvr5mZhM7ksMajsEnniXT0Hfr/wbkgHDkUzIwDWfFCwPOOFJIBGHWdIugL563KXUu4R79GySFD+80iYMakL6X1fKe9x9h441Ek82h+ZnVi10UxPyutN7rYX4rGwGKx6nOk4KGGJXtffFrDz1d6hwgT+1doZ01/q9MIJ55i+uOgdwiYIZLwOrYvS90XLaKBYPNBoLhgwjkzG6vUW6zK29zNviJpX+DPLrtpxueUS6+URAIjxB03cVtEBvWodCxhdNqt2pI+p9Y9lq/pJO1Q1Liyj9fTvjNtQd2nTWXOIRxE5XijAdoUQad3xzHR8NsuNtZF8s+8bQQRxjr55cwY67LpAjrSGE8EOiqpIIVIAJ/o1Ayygqcj7UuM9EsqGEH1VgnGXe3H5aImISMpHy/d9WRWVsgQwtIE="
+    },
+    "printable_patent_charter_pdf": {
+      "path": "pdfs/Pavan_Kumar_Sadashiv_Profile_Avatar_Patent_and_Cryptographic_Charter.pdf",
+      "size_bytes": 75002,
+      "sha256": "323a88e9dc42bdfe6b3030958113a9a703f8d73b4806f04d0bab0abd9a80872d",
+      "sha512": "5179964f52a84707c8fdabd2b66287d5da9e94879249815ce55518138dd9ba991be7637e85d7d0c7d756ac47c7cde42500bb66ed88f8562b9d237bf43c9b388a",
+      "detached_signature_path": "assets/patent-avatar/Pavan_Kumar_Sadashiv_Profile_Avatar_Patent_and_Cryptographic_Charter.pdf.sig",
+      "rsa4096_sha256_signature_base64": "CtowH8loTcd6Nxrpav7JIxM/IFCdvrFhWulKCyAs2UW2ofWd6j4Mpd6DMtx0hGtWLD4bJbCLFqe7EyYbvXzUWaiDGzs7rYazcD5H1C63Jiw3okrUg2jySH1YYSLdHIxARIN2q7Gewt2qTMiRZqPVTHxLCERSuAmQGPfCtaFf8EWSmrmm6f5vaXOuhG+tjGDuJDtWj7gq80Tzd6ttbFdwbG/Qz1c9HX06PN5ovGPBIUyUtYCBqwQBImp8sZHg9XI1nOy1G2Qg5/WdaRkKMY1YkfpvmXlTQk2bc5D+4NXlRTVseLT3o+4yjCeSMbiOpZ43zAmAWK+v+pW4EBeQBCAVL+hQKj0fdrGGb4+ax7vQm5D22yBEHzCg5GllrxQ8jGpHhKVPkWafgk4Bu0ZcW2KyseGg87M94DdwWFg9untmU0NVULcdfq4Y7R01OgaAnxECScgJ6k6XPv2y/H4jozEIEVG2V4GMCq0cQP5mE9kwZP8eJGR2K3ansn6VqpUxsAtX094CTDR4MyLu9g3OXBVMm0uD9S9B29pQzEcFXD39+qKfTe5LucPCmjwP5ebAMBGxnavSqwiG1Ph/P5b8Szphjc2w1wbjZvRJ2EE9dKIPeSXb8wlLS2WHb9+JJ1HoaZPAE0A3HrfDFoGzIY+QzYwdep+zbMaKd6b4OJ2T58n9Wpw="
+    }
+  }
+}
