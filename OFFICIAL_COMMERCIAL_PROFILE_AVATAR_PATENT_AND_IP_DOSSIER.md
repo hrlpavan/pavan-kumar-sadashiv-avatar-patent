@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="assets/pavan-kumar-sadashiv-official-commercial-avatar.svg" alt="Pavan Kumar Sadashiv — Official Commercial Business Profile Picture & Patented Visual Identity" width="360" style="border-radius: 14px; border: 2px solid #D1002D; box-shadow: 0 0 28px rgba(209, 0, 45, 0.45);" />
+  <img src="assets/pavan-kumar-sadashiv-official-commercial-avatar.jpg" alt="Pavan Kumar Sadashiv — Official Commercial Business Profile Picture & Patented Visual Identity" width="360" style="border-radius: 14px; border: 2px solid #D1002D; box-shadow: 0 0 28px rgba(209, 0, 45, 0.45);" />
   <br/><br/>
   <strong>Exhibit A — Canonical Protected Asset: Official Commercial Profile Picture & Executive Brand Avatar of Pavan Kumar Sadashiv</strong><br/>
   <code>SHA-256: 0660daf4d7377af82d844c854db878139dbee957e69575e83e2fc89862a07b8e</code>
